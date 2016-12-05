@@ -1,0 +1,10 @@
+{
+  "name": "dripcap-package",
+  "version": "1.0.0",
+  "main": "./main.es",
+  "license": "MIT",
+  "description": "",
+  "engines": {
+    "dripcap": "~0.5"
+  }
+}
